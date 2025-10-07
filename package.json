@@ -1,0 +1,12 @@
+{
+  "name": "shiba-price-check",
+  "version": "1.0.0",
+  "main": "check_price.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node check_price.cjs"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.3"
+  }
+}
